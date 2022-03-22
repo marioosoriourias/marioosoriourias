@@ -7,7 +7,7 @@
 <h3 align="left">Sobre mi:</h3>
 <p align="left"></p>
 
-<h4>Mi nombre es Mario, tengo 29 años y me gusta mucho la tecnología, también me gusta aprender cosas nuevas cada día.</h4>
+<h4>Mi nombre es Mario, tengo 30 años y me gusta mucho la tecnología, también me gusta aprender cosas nuevas cada día.</h4>
 <h4>Me gusta mucho el desarrollo web, he desarrollado sitios web personales, así como también sitios web para otras personas.</h4>
 
 
