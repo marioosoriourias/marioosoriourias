@@ -26,7 +26,7 @@
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img2.freepng.es/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" alt="django" width="40" height="40"/> 
+        <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/> 
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
